@@ -6,5 +6,5 @@
 2. Once on the command line, use the command --
 
 ```shell
-java -jar pitchbook.jar pitchbook.com/about-pitchbook pitchbook-about.txt
+java -jar pitchbook.jar website-url output-file
 ```
