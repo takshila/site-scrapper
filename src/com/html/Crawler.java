@@ -11,15 +11,19 @@ import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 public class Crawler{
-	private Parser scanner;
+	private Parser parser;
 	
 	public void execute(String uri, Path path) throws IOException {
+		// Connect to the url and get the document.
 		Document doc = Jsoup.connect(uri).get();
+		// There should be one main element but might depend on the HTML.
 		Elements elements = doc.children();
 		
-		scanner = new Parser(elements);
-		scanner.parse();
+		// Parse the retrieved HTML page.
+		parser = new Parser(elements);
+		parser.parse();
 		
+		// Write back the information to the disk.
 		writeToFile(path.toFile());
 	}
 	
@@ -28,16 +32,16 @@ public class Crawler{
 		
 		bw.append("[links]");
 		bw.append(System.getProperty("line.separator"));
-		bw.append(scanner.getLinks().append(System.getProperty("line.separator")));
+		bw.append(parser.getLinks().append(System.getProperty("line.separator")));
 		
 		bw.append("[HTML]");
 		bw.append(System.getProperty("line.separator"));
-		bw.append(scanner.getTags().append(System.getProperty("line.separator")));
+		bw.append(parser.getTags().append(System.getProperty("line.separator")));
 		bw.append(System.getProperty("line.separator"));
 		
 		bw.append("[sequences]");
 		bw.append(System.getProperty("line.separator"));
-		bw.append(scanner.getSeqs());
+		bw.append(parser.getSeqs());
 		
 		bw.flush();
 		bw.close();

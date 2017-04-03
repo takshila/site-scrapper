@@ -38,6 +38,10 @@ public class Parser {
 		}
 	}
 	
+	/*
+	 * Recursively call each element inside the root.
+	 * This is using Depth First Search for traversing through the HTML tags.
+	 */
 	private void parseRec(Element element){
 		if(element.tag().isSelfClosing()){
 			addSelfClosingTag(element);			
@@ -57,6 +61,9 @@ public class Parser {
 		}
 	}
 	
+	/*
+	 * If the Tag is a link, add href to links.
+	 */
 	private void addLink(Element element){
 		if(element.tagName().equalsIgnoreCase("a")){
 			links.append(element.attr("href"));
@@ -80,7 +87,8 @@ public class Parser {
 	
 	private void addSeq(String text){
 		String[] tokens = text.split("\\s+");
-				
+		
+		// Remove words containing punctuation.
 		Pattern p = Pattern.compile("[^a-z0-9]", Pattern.CASE_INSENSITIVE);
 		Matcher m = null;
 		
@@ -93,15 +101,18 @@ public class Parser {
 				i++;
 				word.append(token).append(" ");
 			}else{
+				// If there are two or more words, add to our string builder.
 				if(i > 1){
 					seqs.append(word.toString().trim());
 					seqs.append(System.getProperty("line.separator"));
 				}
+				// Reset the counters.
 				word = new StringBuilder();
 				i = 0;
 			}
 		}
 		
+		// If there are two or more words at the end of the string, add to our string builder.
 		if(i > 1){
 			seqs.append(word.toString().trim());
 			seqs.append(System.getProperty("line.separator"));
