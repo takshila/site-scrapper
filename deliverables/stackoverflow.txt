@@ -1,0 +1,289 @@
+[links]
+http://stackoverflow.com
+/questions
+/jobs?med=site-ui&ref=jobs-tab
+/documentation
+/tags
+/users
+http://stackoverflow.com
+http://stackoverflow.com/help
+http://chat.stackoverflow.com
+http://stackoverflow.com
+https://meta.stackoverflow.com
+https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=%2fusers%2fstory%2fcurrent&amp;utm_source=stackoverflow.com&amp;utm_medium=dev-story&amp;utm_campaign=signup-redirect
+https://stackoverflow.com/users/login?ssrc=site_switcher&returnurl=http%3a%2f%2fstackoverflow.com%2fquestions%2f11970938%2fjava-html-parser-to-extract-specific-data
+https://stackexchange.com/sites
+https://stackoverflow.blog
+/tour
+/help
+https://meta.stackoverflow.com
+http://stackoverflow.com/company/about
+https://www.stackoverflowbusiness.com/?ref=topbar_help
+#
+https://stackexchange.com
+https://stackoverflow.com/users/login?ssrc=head&returnurl=http%3a%2f%2fstackoverflow.com%2fquestions%2f11970938%2fjava-html-parser-to-extract-specific-data
+https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent&utm_source=stackoverflow.com&utm_medium=dev-story&utm_campaign=signup-redirect
+
+/users/signup?ssrc=hero&returnurl=%2fusers%2fstory%2fcurrent&amp;utm_source=stackoverflow.com&amp;utm_medium=dev-story&amp;utm_campaign=signup-redirect
+/questions/11970938/java-html-parser-to-extract-specific-data
+/questions/ask
+
+
+#
+/questions/tagged/java
+/questions/tagged/html-parsing
+/questions/tagged/web-scraping
+/q/11970938
+/users/586836/vivek-jonam
+/users/586836/vivek-jonam
+
+#
+
+/questions/11970938/java-html-parser-to-extract-specific-data?answertab=active#tab-top
+/questions/11970938/java-html-parser-to-extract-specific-data?answertab=oldest#tab-top
+/questions/11970938/java-html-parser-to-extract-specific-data?answertab=votes#tab-top
+
+
+
+http://jsoup.org/cookbook/extracting-data/attributes-text-html
+http://jsoup.org/apidocs/org/jsoup/select/Selector.html
+/a/11971053
+/posts/11971053/revisions
+/users/140816/jo%c3%a3o-silva
+/users/140816/jo%c3%a3o-silva
+/users/586836/vivek-jonam
+/users/140816/jo%c3%a3o-silva
+/users/586836/vivek-jonam
+/users/140816/jo%c3%a3o-silva
+
+#
+
+
+
+http://jsoup.org/
+/a/11970963
+/users/181136/srini-venigalla
+/users/181136/srini-venigalla
+
+#
+
+
+
+http://jtidy.sourceforge.net/
+/a/11970986
+/users/12960/brian-agnew
+/users/12960/brian-agnew
+
+#
+
+/users/login?ssrc=question_page&returnurl=http%3a%2f%2fstackoverflow.com%2fquestions%2f11970938%2fjava-html-parser-to-extract-specific-data%23new-answer
+#
+http://stackexchange.com/legal/privacy-policy
+http://stackexchange.com/legal/terms-of-service
+/questions/tagged/java
+/questions/tagged/html-parsing
+/questions/tagged/web-scraping
+/questions/ask
+?lastactivity
+/q/36780047
+/questions/36780047/java-jsoup-error-fetching-url?noredirect=1
+/q/2861
+/questions/2861/options-for-html-scraping
+/q/363681
+/questions/363681/how-to-generate-random-integers-within-a-specific-range-in-java
+/q/2168610
+/questions/2168610/which-html-parser-is-the-best
+/q/3577641
+/questions/3577641/how-do-you-parse-and-process-html-xml-in-php
+/q/4079784
+/questions/4079784/web-scraping-screen-scraping-data-mining-tips
+/q/9040749
+/questions/9040749/the-web-browser-show-the-correct-values-but-when-i-use-jsoup-the-html-doesnt-ha
+/q/9745948
+/questions/9745948/how-to-extract-info-from-html-with-javas-own-parser
+/q/10120696
+/questions/10120696/retrieving-frame-source-code-with-a-java-html-parser
+/q/16773583
+/questions/16773583/python-extracting-specific-data-with-html-parser
+/q/20794496
+/questions/20794496/targeting-specific-nth-html-tags-with-php-simple-html-dom-parser
+https://stackexchange.com/questions?tab=hot
+http://academia.stackexchange.com/questions/87521/should-marker-ta-handle-students-marking-issues-by-email
+http://cooking.stackexchange.com/questions/79581/how-do-i-decorate-a-last-minute-i-mean-it-has-to-be-done-tomorrow-cake-for-my
+http://money.stackexchange.com/questions/77819/a-debt-collector-will-not-allow-me-to-pay-a-debt-what-steps-should-i-take
+http://puzzling.stackexchange.com/questions/50631/days-and-lectures-solving-puzzle
+http://photo.stackexchange.com/questions/88427/developed-film-stuck-to-storage-sleeves
+http://electronics.stackexchange.com/questions/296258/what-happens-to-a-50-ohm-line-when-its-terminated-at-an-impedance-less-than-50-o
+http://tex.stackexchange.com/questions/361790/how-can-i-create-braces-around-aligned-equations
+http://electronics.stackexchange.com/questions/296202/reading-colors-from-a-resistor
+http://math.stackexchange.com/questions/2215177/should-this-definition-of-set-equality-be-an-axiom
+http://scifi.stackexchange.com/questions/156362/teddy-made-me-do-it-short-story
+http://japanese.stackexchange.com/questions/45167/taking-blame-though-im-not-at-fault
+http://space.stackexchange.com/questions/20938/when-will-we-be-able-to-conclusively-confirm-or-disprove-bodes-law
+https://security.stackexchange.com/questions/155132/allow-only-specific-devices-to-be-connected-to-usb
+http://stats.stackexchange.com/questions/271421/how-is-this-a-probability-density-function
+http://ell.stackexchange.com/questions/124422/meaning-of-h-t-to-reader-mr-d
+http://movies.stackexchange.com/questions/70815/why-do-people-wear-sunglasses-in-the-matrix
+http://academia.stackexchange.com/questions/87394/twitter-changes-behavior-after-submitting-a-research-paper-about-it-to-conferenc
+http://mathoverflow.net/questions/266200/reverse-toponogov-triangle-comparison
+http://travel.stackexchange.com/questions/90973/indian-citizen-married-to-australian-permanent-resident-travelling-from-austra
+http://scifi.stackexchange.com/questions/156327/how-do-humans-in-star-trek-satisfy-their-desire-for-fanciful-and-luxurious-stuff
+http://worldbuilding.stackexchange.com/questions/75884/how-would-an-army-defend-itself-against-mass-robo-snake-attacks
+http://codegolf.stackexchange.com/questions/114883/i-give-you-nth-permutation-you-give-me-n
+http://spanish.stackexchange.com/questions/20338/la-pelota-es-roja-la-ni%c3%b1a-juega-con-la
+http://math.stackexchange.com/questions/2213890/inconsistencies-in-the-definition-of-derivative-of-a-polynomial-over-a-field
+#
+/feeds/question/11970938
+http://stackoverflow.com/company/about
+/tour
+/help
+https://stackoverflow.blog?blb=1
+http://chat.stackoverflow.com
+https://data.stackexchange.com
+https://stackexchange.com/legal
+https://stackexchange.com/legal/privacy-policy
+http://stackoverflow.com/company/work-here
+https://www.stackoverflowbusiness.com/advertise
+http://stackoverflow.com/jobs/directory/developer-jobs
+
+/contact
+https://meta.stackoverflow.com
+//stackoverflow.com
+//serverfault.com
+//superuser.com
+//webapps.stackexchange.com
+//askubuntu.com
+//webmasters.stackexchange.com
+//gamedev.stackexchange.com
+//tex.stackexchange.com
+//softwareengineering.stackexchange.com
+//unix.stackexchange.com
+//apple.stackexchange.com
+//wordpress.stackexchange.com
+//gis.stackexchange.com
+//electronics.stackexchange.com
+//android.stackexchange.com
+//security.stackexchange.com
+//dba.stackexchange.com
+//drupal.stackexchange.com
+//sharepoint.stackexchange.com
+//ux.stackexchange.com
+//mathematica.stackexchange.com
+//salesforce.stackexchange.com
+//expressionengine.stackexchange.com
+//crypto.stackexchange.com
+//codereview.stackexchange.com
+//magento.stackexchange.com
+//dsp.stackexchange.com
+//raspberrypi.stackexchange.com
+//codegolf.stackexchange.com
+http://stackexchange.com/sites#technology
+//photo.stackexchange.com
+//scifi.stackexchange.com
+//graphicdesign.stackexchange.com
+//movies.stackexchange.com
+//music.stackexchange.com
+//cooking.stackexchange.com
+//diy.stackexchange.com
+//money.stackexchange.com
+//academia.stackexchange.com
+http://stackexchange.com/sites#lifearts
+//english.stackexchange.com
+//skeptics.stackexchange.com
+//judaism.stackexchange.com
+//travel.stackexchange.com
+//christianity.stackexchange.com
+//ell.stackexchange.com
+//japanese.stackexchange.com
+//gaming.stackexchange.com
+//bicycles.stackexchange.com
+//rpg.stackexchange.com
+//anime.stackexchange.com
+//mechanics.stackexchange.com
+http://stackexchange.com/sites#culturerecreation
+//mathoverflow.net
+//math.stackexchange.com
+//stats.stackexchange.com
+//cstheory.stackexchange.com
+//physics.stackexchange.com
+//chemistry.stackexchange.com
+//biology.stackexchange.com
+//cs.stackexchange.com
+//philosophy.stackexchange.com
+http://stackexchange.com/sites#science
+//meta.stackexchange.com
+//stackapps.com
+//area51.stackexchange.com
+https://www.stackoverflowbusiness.com/talent
+https://creativecommons.org/licenses/by-sa/3.0/
+http://blog.stackoverflow.com/2009/06/attribution-required/
+
+[HTML]
+<html><head><title></title><link/><link/><link/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><link/><script></script><script></script><link/><link/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><script></script><script></script><script></script><noscript><style></style></noscript></head><body><script></script><iframe></iframe><div></div><div></div><header><div><div><a><span></span></a><nav><ol><li><a></a></li><li><a></a></li><li><a><small></small></a></li><li><a></a></li><li><a></a></li></ol></nav><form><svg><path/></svg><input/><button><svg><path/></svg></button></form></div><div><nav><div><div><div><h3><a></a></h3></div><div><ul><li><div><a></a><a></a></div><a><div></div></a></li><li><div><span></span></div><a><div></div></a></li></ul></div><div><h3></h3></div><div><div><a></a><a></a></div></div><div><h3><a></a></h3><a></a></div><div><div></div></div></div><div><div><ul><li><a><span></span></a></li><li><a><span></span></a></li><li><a><span></span></a></li><li><a><span></span></a></li><li><a><span></span></a></li></ul></div></div></div><ol><li><a><svg><path/></svg></a></li><li><a><svg><path/></svg></a></li></ol></nav><div><a></a><a></a></div></div></div></header><script></script><div><div><div><link/><div><div></div><div><a><span></span></a></div><div><b></b><div></div><div><br/><br/></div><a></a></div></div><script></script><div><h1><a></a></h1><div><a></a></div></div><div><div><script></script><div></div><table><tbody><tr><td><div><input/><a></a><span></span><a></a><a></a><div><b></b></div></div></td><td><div><div><p></p><pre><code></code></pre><p><br/></p></div><div><a></a><a></a><a></a></div><table><tbody><tr><td><div><a></a></div></td><td><div><div><span></span></div><div><a><div><img/></div></a></div><div><a></a><div><span></span><span><span></span><span></span></span><span><span></span><span></span></span><span><span></span><span></span></span></div></div></div></td></tr></tbody></table></div></td></tr><tr><td></td><td><div><table><tbody><tr><td></td><td></td></tr></tbody></table></div><div><a></a><span></span><a></a></div></td></tr></tbody></table></div><div><a></a><div><div><h2><span></span></h2><div><div><a></a><a></a><a></a></div></div></div></div><a></a><div><table><tbody><tr><td><div><input/><a></a><span></span><a></a><span></span></div></td><td><div><p><strong><a></a></strong><strong></strong><a></a></p><pre><code></code></pre></div><table><tbody><tr><td><div><a></a></div></td><td><div><div><a><span></span></a></div><div></div><div><div></div></div></div></td><td><div><div><span></span></div><div><a><div><img/></div></a></div><div><a></a><div><span></span><span><span></span><span></span></span><span><span></span><span></span></span><span><span></span><span></span></span></div></div></div></td></tr></tbody></table></td></tr><tr><td></td><td><div><table><tbody><tr><td><table><tbody><tr><td></td><td></td></tr></tbody></table></td><td><div><span></span><a></a><span><span></span></span></div></td></tr><tr><td><table><tbody><tr><td><span></span></td><td></td></tr></tbody></table></td><td><div><span><code></code><code></code></span><a></a><span><span></span></span></div></td></tr><tr><td><table><tbody><tr><td></td><td></td></tr></tbody></table></td><td><div><span></span><a></a><span><span></span></span></div></td></tr><tr><td><table><tbody><tr><td></td><td></td></tr></tbody></table></td><td><div><span><code></code><code></code><code></code><code></code><code></code></span><a></a><span><span></span></span></div></td></tr></tbody></table></div><div><a></a><span></span><a></a></div></td></tr></tbody></table></div><script></script><div></div><a></a><div><table><tbody><tr><td><div><input/><a></a><span></span><a></a></div></td><td><div><p><a></a></p><p></p></div><table><tbody><tr><td><div><a></a></div></td><td><div><div><span></span></div><div><a><div><img/></div></a></div><div><a></a><div><span></span><span><span></span><span></span></span><span><span></span><span></span></span><span><span></span><span></span></span></div></div></div></td></tr></tbody></table></td></tr><tr><td></td><td><div><table><tbody><tr><td></td><td></td></tr></tbody></table></div><div><a></a><span></span><a></a></div></td></tr></tbody></table></div><a></a><div><table><tbody><tr><td><div><input/><a></a><span></span><a></a></div></td><td><div><p><a></a></p></div><table><tbody><tr><td><div><a></a></div></td><td><div><div><span></span></div><div><a><div><img/></div></a></div><div><a></a><div><span></span><span><span></span><span></span></span><span><span></span><span></span></span><span><span></span><span></span></span></div></div></div></td></tr></tbody></table></td></tr><tr><td></td><td><div><table><tbody><tr><td></td><td></td></tr></tbody></table></div><div><a></a><span></span><a></a></div></td></tr></tbody></table></div><a></a><form><input/><input/><input/><h2></h2><script></script><script></script><div><div><div><div></div><textarea></textarea></div></div><div></div><div></div><div></div><div></div><div></div><div><input/><input/></div></div><div><div><div><div><h3><a></a></h3><script></script><div><p><span></span><span></span></p></div><div><p><span></span><span></span></p></div><div><p><span></span><span></span></p></div></div><input/><input/><input/><input/><div><h3></h3><div><table><tbody><tr><td><div><label></label><input/></div><div><label></label><input/></div></td></tr></tbody></table></div></div></div></div><script></script><noscript><h3></h3><div><table><tbody><tr><td><div><label></label><input/></div><div><label></label><input/></div></td></tr></tbody></table></div></noscript></div><div><input/><a></a><p><a></a><a></a></p><input/></div></form><h2><a></a><a></a><a></a><a></a></h2></div></div><div><div><table><tbody><tr><td><p></p></td><td><p><b></b></p></td></tr><tr><td><p></p></td><td><p><b></b></p></td></tr><tr><td><p></p></td><td><p><b><a></a></b></p></td></tr></tbody></table></div><script></script><div></div><div></div><script></script><div><h4></h4><div><div><a><div></div></a><a></a></div></div></div><div><h4></h4><div><div><a><div></div></a><a></a></div><div><a><div></div></a><a></a></div><div><a><div></div></a><a></a></div><div><a><div></div></a><a></a></div><div><a><div></div></a><a></a></div><div><a><div></div></a><a></a></div><div><a><div></div></a><a></a></div><div><a><div></div></a><a></a></div><div><a><div></div></a><a></a></div><div><a><div></div></a><a></a></div></div></div><div><h4><a></a></h4><ul><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li><li><div></div><a></a></li></ul><a></a></div></div><div><div><a><span></span></a></div></div><script></script><noscript><div><img/></div></noscript><div></div></div></div></div><div><div><div><div><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><b><a></a></b><b><a></a></b></div><div><table><tbody><tr><th></th><th></th><th></th><th></th><th></th></tr><tr><td><ol><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ol></td><td><ol><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ol></td><td><ol><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ol></td><td><ol><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ol></td><td><ol><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ol></td><td><ol><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ol></td><td><ol><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ol></td></tr></tbody></table></div></div><div><a></a><a></a></div><div></div></div></div><noscript><div><img/></div></noscript><script></script><script></script><script></script><script></script></body></html>
+
+[sequences]
+Java Html
+Stack Overflow
+Stack Overflow
+Stack Overflow
+Meta Stack Overflow
+Help Center
+About Us
+Stack Overflow
+Log In
+Sign Up
+Stack Overflow Community
+Stack Overflow
+Java Html
+Ask Question
+Brian Agnew
+Your Answer
+Java JSoup
+Which HTML Parser
+The Web Browser
+Java HTML
+PHP Simple HTML DOM Parser
+Hot Network Questions
+Reading Colors
+Reverse Toponogov
+New Zealand
+Star Trek
+Stack Overflow
+Server Fault
+Super User
+Web Applications
+Ask Ubuntu
+Game Development
+Software Engineering
+Ask Different
+WordPress Development
+Geographic Information Systems
+Electrical Engineering
+Android Enthusiasts
+Information Security
+Database Administrators
+Drupal Answers
+User Experience
+Code Review
+Signal Processing
+Raspberry Pi
+Programming Puzzles
+Code Golf
+Science Fiction
+Graphic Design
+Seasoned Advice
+Home Improvement
+Personal Finance
+English Language
+Mi Yodeya
+English Language Learners
+Japanese Language
+Motor Vehicle Maintenance
+Cross Validated
+Theoretical Computer Science
+Computer Science
+Meta Stack Exchange
+Stack Apps
+Stack Overflow Talent
+Stack Exchange
+Stack Overflow

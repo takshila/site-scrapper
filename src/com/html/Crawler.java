@@ -5,17 +5,19 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Path;
+import java.security.KeyManagementException;
+import java.security.NoSuchAlgorithmException;
 
-import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 public class Crawler{
 	private Parser parser;
 	
-	public void execute(String uri, Path path) throws IOException {
+	public void execute(String uri, Path path) throws IOException, KeyManagementException, NoSuchAlgorithmException {
 		// Connect to the url and get the document.
-		Document doc = Jsoup.connect(uri).get();
+		Document doc = Helper.getDocument(uri);
+		
 		// There should be one main element but might depend on the HTML.
 		Elements elements = doc.children();
 		

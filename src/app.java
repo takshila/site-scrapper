@@ -20,10 +20,10 @@ public class app {
 		}
 		
 		// Add the http:// transport protocol if not present.
-		String uri = Helper.getValidURI(args[0]);
+		String url = Helper.getValidURL(args[0]);
 		
 		// Test the validity of the URL. Exit otherwise.
-		if(!Helper.isValidURI(uri)){
+		if(!Helper.isValidURL(url)){
 			System.out.println("Incorrect URL");
 	    	System.exit(0);
 		}
@@ -40,7 +40,7 @@ public class app {
 		// Execute the crawler and write to the file.
 		Crawler crawler = new Crawler();
 		try {
-			crawler.execute(uri, file);
+			crawler.execute(url, file);
 		} catch (Exception e) {
 			try {
 				// delete the file if there was an error.

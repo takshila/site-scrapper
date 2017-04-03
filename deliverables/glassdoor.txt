@@ -1,0 +1,335 @@
+[links]
+/about/cookies.htm
+/index.htm
+/index.htm
+/Reviews/index.htm
+/Salaries/index.htm
+/Interview/index.htm
+#
+/profile/login_input.htm?userOriginHook=HEADER_SIGNIN_LINK
+#
+/employers/index.htm?source=gdemployermenu
+/employers/index.htm?source=employermenu
+/employers/ec/index.htm
+https://www.glassdoor.com/employer-branding/
+/employers/products/job-advertising.htm
+https://www.glassdoor.com/employers/blog/
+http://resources.glassdoor.com/contact?channel=gd-top-nav-drop-handraiser
+/post-job
+/post-job
+/survey/start_input.htm?contentOriginHook=PAGE_HEADER_NAV&showSurvey=REVIEWS
+/profile/uploadResume_input.htm?resumeOriginHook=HOMEPAGE_HERO_CTA
+/List/Highest-Paying-Jobs-LST_KQ0,19.htm
+/apps.htm
+/apps.htm
+/Job/jobs.htm?location-redirect=true
+/Job/jobs.htm?location-redirect=true
+/Job/jobs.htm?location-redirect=true
+/Job/jobs.htm?location-redirect=true
+/Job/jobs.htm?location-redirect=true
+/Job/jobs.htm?location-redirect=true
+/apps.htm
+/apps.htm
+#showJobAlert
+#showJobAlert
+
+
+
+
+/employers/index.htm
+/employers/index.htm
+/employers/index.htm
+/employers/index.htm
+/Salaries/know-your-worth.htm
+/Salaries/know-your-worth.htm
+https://www.glassdoor.com/blog/20-companies-hiring-like-crazy-in-april/
+https://www.glassdoor.com/blog/20-companies-hiring-like-crazy-in-april/
+/Award/Best-Places-to-Work-LST_KQ0,19.htm
+/Award/Best-Places-to-Work-LST_KQ0,19.htm
+/Job/retail-jobs-SRCH_KO0,6.htm
+/Job/marketing-jobs-SRCH_KO0,9.htm
+/Job/sales-jobs-SRCH_KO0,5.htm
+/Job/engineering-jobs-SRCH_KO0,11.htm
+/Job/public-health-jobs-SRCH_KO0,13.htm
+
+/Job/education-jobs-SRCH_KE0,9.htm
+/Job/oil-jobs-SRCH_KE0,3.htm
+/Job/healthcare-jobs-SRCH_KO0,10.htm
+/Job/customer-service-jobs-SRCH_KO0,16.htm
+/Job/intern-jobs-SRCH_KO0,6.htm
+/Job/part-time-jobs-SRCH_KO0,9.htm
+/Job/finance-jobs-SRCH_KE0,7.htm
+/Job/construction-jobs-SRCH_KO0,12.htm
+/Job/it-jobs-SRCH_KE0,2.htm
+/Job/nursing-jobs-SRCH_KO0,7.htm
+/Job/public-health-jobs-SRCH_KO0,13.htm
+/Job/pharmacy-jobs-SRCH_KE0,8.htm
+/Job/business-administration-jobs-SRCH_KO0,23.htm
+/Job/entry-level-jobs-SRCH_KO0,11.htm
+/Job/administrative-jobs-SRCH_KO0,14.htm
+/Job/banking-jobs-SRCH_KE0,7.htm
+/Job/human-resources-jobs-SRCH_KO0,15.htm
+/Job/legal-jobs-SRCH_KO0,5.htm
+/Job/manufacturing-jobs-SRCH_KE0,13.htm
+/sitedirectory/company-jobs.htm
+
+/Job/dermatologist-jobs-SRCH_KO0,13.htm
+/Job/administrative-assistant-jobs-SRCH_KO0,24.htm
+/Job/clerical-jobs-SRCH_KO0,8.htm
+/Job/receptionist-jobs-SRCH_KO0,12.htm
+/Job/project-manager-jobs-SRCH_KO0,15.htm
+
+/Job/graphic-designer-jobs-SRCH_KO0,16.htm
+/Job/executive-assistant-jobs-SRCH_KO0,19.htm
+/Job/medical-assistant-jobs-SRCH_KO0,17.htm
+/Job/attorney-jobs-SRCH_KO0,8.htm
+/Job/accountant-jobs-SRCH_KO0,10.htm
+/Job/pharmacist-jobs-SRCH_KO0,10.htm
+/Job/data-entry-jobs-SRCH_KO0,10.htm
+/Job/nurse-practitioner-jobs-SRCH_KO0,18.htm
+/Job/phlebotomist-jobs-SRCH_KO0,12.htm
+/Job/manager-jobs-SRCH_KO0,7.htm
+/Job/business-analyst-jobs-SRCH_KO0,16.htm
+/Job/call-center-representative-jobs-SRCH_KO0,26.htm
+/Job/software-engineer-jobs-SRCH_KO0,17.htm
+/Job/delivery-driver-jobs-SRCH_KO0,15.htm
+/Job/registered-nurse-jobs-SRCH_KO0,16.htm
+/Job/sales-manager-jobs-SRCH_KO0,13.htm
+/Job/director-jobs-SRCH_KO0,8.htm
+/Job/doctor-jobs-SRCH_KE0,6.htm
+/Job/petroleum-engineer-jobs-SRCH_KO0,18.htm
+/sitedirectory/title-jobs.htm
+
+/Job/new-york-jobs-SRCH_IL.0,8_IC1132348.htm
+/Job/chicago-jobs-SRCH_IL.0,7_IC1128808.htm
+/Job/houston-jobs-SRCH_IL.0,7_IC1140171.htm
+/Job/los-angeles-jobs-SRCH_IL.0,11_IC1146821.htm
+/Job/atlanta-jobs-SRCH_IL.0,7_IC1155583.htm
+
+/Job/dallas-jobs-SRCH_IL.0,6_IC1139977.htm
+/Job/san-francisco-jobs-SRCH_IL.0,13_IC1147401.htm
+/Job/washington-jobs-SRCH_IL.0,10_IC1138213.htm
+/Job/boston-jobs-SRCH_IL.0,6_IC1154532.htm
+/Job/seattle-jobs-SRCH_IL.0,7_IC1150505.htm
+/Job/philadelphia-jobs-SRCH_IL.0,12_IC1152672.htm
+/Job/san-diego-jobs-SRCH_IL.0,9_IC1147311.htm
+/Job/denver-jobs-SRCH_IL.0,6_IC1148170.htm
+/Job/phoenix-jobs-SRCH_IL.0,7_IC1133904.htm
+/Job/austin-jobs-SRCH_IL.0,6_IC1139761.htm
+/Job/charlotte-jobs-SRCH_IL.0,9_IC1138644.htm
+/Job/orlando-jobs-SRCH_IL.0,7_IC1154247.htm
+/Job/miami-jobs-SRCH_IL.0,5_IC1154170.htm
+/Job/san-antonio-jobs-SRCH_IL.0,11_IC1140494.htm
+/Job/tampa-jobs-SRCH_IL.0,5_IC1154429.htm
+/Job/las-vegas-jobs-SRCH_IL.0,9_IC1149603.htm
+/Job/saint-louis-jobs-SRCH_IL.0,11_IC1131270.htm
+/Job/san-jose-jobs-SRCH_IL.0,8_IC1147436.htm
+/Job/raleigh-jobs-SRCH_IL.0,7_IC1138960.htm
+/sitedirectory/city-jobs.htm
+
+/Salaries/pharmacist--SRCH_KO0,10.htm
+/Salaries/physical-therapist-salary-SRCH_KO0,18.htm
+/Salaries/anesthesiologist-salary-SRCH_KO0,16.htm
+/Salaries/dental-hygienist-salary-SRCH_KO0,16.htm
+/Salaries/medical-assistant-salary-SRCH_KO0,17.htm
+
+/Salaries/dental-assistant-salary-SRCH_KO0,16.htm
+/Salaries/dentist-salary-SRCH_KO0,7.htm
+/Salaries/flight-attendant-salary-SRCH_KO0,16.htm
+/Salaries/nurse-practitioner-salary-SRCH_KO0,18.htm
+/Salaries/nurse-salary-SRCH_KO0,5.htm
+/Salaries/physician-assistant-salary-SRCH_KO0,19.htm
+/Salaries/radiologist-salary-SRCH_KO0,11.htm
+/Salaries/registered-nurse-salary-SRCH_KO0,16.htm
+/Salaries/accountant-salary-SRCH_KO0,10.htm
+/Salaries/cna-salary-SRCH_KO0,3.htm
+/Salaries/emt-salary-SRCH_KO0,3.htm
+/Salaries/lawyer-salary-SRCH_KO0,6.htm
+/Salaries/teacher-salary-SRCH_KO0,7.htm
+/Salaries/architect-salary-SRCH_KO0,9.htm
+/Salaries/firefighter-salary-SRCH_KO0,11.htm
+/Salaries/paralegal-salary-SRCH_KO0,9.htm
+/Salaries/pediatrician--SRCH_KO0,12.htm
+/Salaries/pharmacy-technician-salary-SRCH_KO0,19.htm
+/Salaries/software-engineer-salary-SRCH_KO0,17.htm
+/Salaries/know-your-worth.htm
+
+/about/privacy.htm
+/employers/index.htm?source=b2c-popup
+/about/index_input.htm
+/Trends/index.htm
+https://www.glassdoor.com/blog
+https://www.glassdoor.com/research
+/employers/index.htm?src=gdfoot
+/partners/index.htm
+/post-job
+http://help.glassdoor.com/GlassDoorHome/en_US
+http://help.glassdoor.com/article/Community-Guidelines/en_US
+/about/terms.htm
+/about/privacy.htm
+http://help.glassdoor.com/ContactUs/en_US?opt=bd&job_board=true
+http://resources.glassdoor.com/advertising-on-glassdoor.html
+/developer/index.htm
+http://jobs.glassdoor.com/home?id=GLASA001M
+https://itunes.apple.com/us/app/glassdoor-job-search-salaries/id589698942?mt=8&uo=4
+https://play.google.com/store/apps/details?id=com.glassdoor.app
+/sitedirectory/company-jobs.htm
+/sitedirectory/title-jobs.htm
+/sitedirectory/city-jobs.htm
+
+[HTML]
+<html><head><script></script><noscript></noscript><script></script><link/><link/><script></script><script></script><script></script><script></script><script></script><title></title><link/><link/><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><script></script><meta/><script></script><script></script><script></script><meta/><meta/><meta/><meta/><meta/><script></script><link/><link/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/></head><body><div><div></div><div></div><div></div></div><header><div><div><div></div><div><div><p><a></a></p></div></div><div></div></div></div><script></script><nav><div><a><svg><path/></svg></a></div><div><ul><li></li><li><span><svg><path/></svg></span></li></ul><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul><ul><li><a><span></span></a><div><ul><li><span></span></li></ul></div></li><li><a></a></li><li><a></a><div><ul><li><span></span></li></ul></div></li><div><div></div><div><div><div></div><div></div><div><div><span><span></span></span></div><div><div></div><div></div><div></div></div></div></div></div><div></div><div><div><div><span><span></span></span></div><div></div></div></div><div></div><div><div><div></div><div><button><span></span></button></div></div></div></div></ul><ul><li><a></a><div><ul><li><span></span></li></ul><ul><li><a></a></li><li><a></a></li></ul><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul><ul><li><a></a></li></ul></div></li><li><a></a></li></ul><ul><li><a><span></span><i></i></a></li></ul></div><div></div><div><span><svg><path/></svg></span></div></nav></header><div><div><div><h1></h1><div><div><form><input/><input/><input/><input/><label></label><input/><label></label><input/><input/><input/><input/><div><span></span><span></span><ul><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li></ul></div><button><span></span></button></form><ul></ul></div></div><a><i></i><span></span></a></div><div></div><div></div></div></div><script></script><div></div><div><div><div><div><div><div><article><section><a><div><span></span><span><span><span></span></span><span><span></span></span></span></div></a></section><section><div><div><ul><li><div><div><div><h2></h2><p></p><a><span></span></a></div><div><a><img/><img/><img/></a></div></div></div><div><div><div><h2><br/></h2><p></p><a><span></span></a></div><div><a><img/><img/><img/></a></div></div></div></li><li><div><div><div><h2></h2><p></p><a><span></span></a></div><div><a><img/><img/><img/></a></div></div></div><div><div><div><h2><br/></h2><p></p><a><span></span></a></div><div><a><img/><img/><img/></a></div></div></div></li><li><div><div><div><h2></h2><p></p><a><span></span></a></div><div><a><img/><img/><img/></a></div></div></div><div><div><div><h2><br/></h2><p></p><a><span></span></a></div><div><a><img/><img/><img/></a></div></div></div></li></ul></div><div><a><span></span></a><div></div><a><span></span></a></div></div></section><section><div><h2></h2><div><div></div><a><span></span></a><div></div><a><span></span></a></div></div></section><section><div><div><h2><br/></h2><div><a><img/></a></div><p></p><ul><li></li><li></li><li></li></ul><a><span></span></a></div><div><a><img/></a></div><div><a><img/></a></div></div></section><section><div><h2></h2><ul><li><div><a><img/></a><div><h4></h4><p></p><a><span></span></a></div></div></li><li><div><a><img/></a><div><h4></h4><p></p><a><span></span></a></div></div></li><li><div><a><img/></a><div><h4></h4><p></p><a><span></span></a></div></div></li></ul></div></section><section><div><div></div><div><div><div><span></span><span></span><span></span></div><div><hr/></div><div></div><div></div></div></div></div></section><section><div><div><div><h4></h4><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h4></h4><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h4></h4><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h4></h4><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div></div></div></section></article></div><div><div><p><a></a></p></div></div><div><div><p></p></div></div></div></div></div></div></div><footer><div><a><div><span></span><i></i></div></a><div></div><div><hr/></div><nav><ul><li><p></p><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></li><li><p></p><ul><li><a></a></li><li><a></a></li><li><a></a></li></ul></li><li><p></p><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></li><li><p></p><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></li><li><label></label><select><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option></select><div><a><i><span></span></i></a><a><i><span></span></i></a></div></li></ul></nav><div><hr/></div><div><span></span><a></a><a></a><a></a></div><div><hr/></div><div></div></div></footer><div></div><script></script><script></script><script></script><script></script></body></html>
+
+[sequences]
+Glassdoor Job Search
+Company Reviews
+Account Settings
+Account Settings
+Sign In
+Account Settings
+For Employers
+For Employers
+Get Free Employer Account
+Sign In
+Employer Center
+Employer Branding
+Job Advertising
+Recruiting Blog
+Contact Sales
+Free Job Postings
+Write Review
+Highest Paying Jobs
+Highest Paying Jobs
+Download App
+Use Glassdoor
+Search Jobs
+Let Glassdoor
+Search Jobs
+Search Jobs
+Download App
+Let Glassdoor
+Create Job Alert
+Highlighted Companies Hiring Now
+Free Employer Account
+Are You Paid
+See Your Market Worth
+Get Your Estimate
+Companies Hiring Like Crazy
+Read Article
+Choice Awards
+Choice Awards
+Best Places
+North America
+Popular Searches
+Retail Jobs
+Marketing Jobs
+Sales Jobs
+Engineering Jobs
+Public Health Jobs
+Education Jobs
+Oil Jobs
+Healthcare Jobs
+Customer Service Jobs
+Intern Jobs
+Part Time Jobs
+Finance Jobs
+Construction Jobs
+IT Jobs
+Nursing Jobs
+Public Health Jobs
+Pharmacy Jobs
+Business Administration Jobs
+Entry Level Jobs
+Administrative Jobs
+Banking Jobs
+Human Resources Jobs
+Legal Jobs
+Manufacturing Jobs
+More Jobs
+Dermatologist Jobs
+Administrative Assistant Jobs
+Clerical Jobs
+Receptionist Jobs
+Project Manager Jobs
+Graphic Designer Jobs
+Executive Assistant Jobs
+Medical Assistant Jobs
+Attorney Jobs
+Accountant Jobs
+Pharmacist Jobs
+Data Entry Jobs
+Nurse Practitioner Jobs
+Phlebotomist Jobs
+Manager Jobs
+Business Analyst Jobs
+Call Center Representative Jobs
+Software Engineer Jobs
+Delivery Driver Jobs
+Registered Nurse Jobs
+Sales Manager Jobs
+Director Jobs
+Doctor Jobs
+Petroleum Engineer Jobs
+More Jobs
+New York Jobs
+Chicago Jobs
+Houston Jobs
+Los Angeles Jobs
+Atlanta Jobs
+Dallas Jobs
+San Francisco Jobs
+Washington Jobs
+Boston Jobs
+Seattle Jobs
+Philadelphia Jobs
+San Diego Jobs
+Denver Jobs
+Phoenix Jobs
+Austin Jobs
+Charlotte Jobs
+Orlando Jobs
+Miami Jobs
+San Antonio Jobs
+Tampa Jobs
+Las Vegas Jobs
+Saint Louis Jobs
+San Jose Jobs
+Raleigh Jobs
+More Cities
+Pharmacist Salaries
+Physical Therapist Salaries
+Anesthesiologist Salaries
+Dental Hygienist Salaries
+Medical Assistant Salaries
+Dental Assistant Salaries
+Dentist Salaries
+Flight Attendant Salaries
+Nurse Practitioner Salaries
+Nurse Salaries
+Physician Assistant Salaries
+Radiologist Salaries
+RN Salaries
+Accountant Salaries
+CNA Salaries
+EMT Salaries
+Lawyer Salaries
+Teacher Salaries
+Architect Salaries
+Firefighter Salaries
+Paralegal Salaries
+Pediatrician Salaries
+Pharmacy Technician Salaries
+Software Engineer Salaries
+Salary Calculator
+Privacy Policy
+About Us
+Free Employer Account
+Employer Center
+Help Center
+Work With Us
+Job Boards
+United Kingdom
+United States
+App Store
+Android App
+Google Play
